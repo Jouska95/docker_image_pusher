@@ -1,4 +1,2 @@
 nginx
-#支持私库
-#支持指定架构
 allebb/studio-server:1.0.5-rc1
